@@ -1,2 +1,2 @@
 #descendant-combinator
-TEST COMMIT
+TEST
